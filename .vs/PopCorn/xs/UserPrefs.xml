@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{389A0A90-45E6-5251-A34F-9A4CD3BE42A6}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/PotScript.cs">
+    <Files>
+      <File FileName="Assets/Scripts/StickerController.cs" Line="70" Column="53" />
+      <File FileName="Assets/Scripts/PotScript.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/BottomLine.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/CheckController.cs" Line="95" Column="5" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="PopCorn" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="Checks" expanded="True" />
+                <Node name="PotScript.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="8711153a-b093-4506-beef-18de0227f211" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
